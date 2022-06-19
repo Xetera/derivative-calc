@@ -7,7 +7,7 @@ An expression-based calculator capable of dealing with derivatives and simplifyi
 
 Input: $\frac{d}{dx} \dfrac{x^3 * x^3 - (2x - x)}{x^2}$
 
-Simplification: $\frac{d}{dx} \dfrac{x^9 - 3x}{x^2}$
+Simplification: $\frac{d}{dx} \dfrac{x^6 - 3x}{x^2}$
 
 Derivative: $\dfrac{x^2(6x^5 - 3) - 2x(x^6 - 3x)}{x^4}$
 
